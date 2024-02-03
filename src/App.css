@@ -1,0 +1,51 @@
+.main_box {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: absolute;
+  flex-direction: column;
+  top: 0;
+  bottom: 0;
+  right: 0;
+  left: 0;
+}
+
+.text {
+  display: flex;
+  justify-content: center;
+}
+
+.main_box div {
+  font-size: 20px;
+  margin: 20px 0px;
+}
+
+button {
+  color: #fff;
+  padding: 10px 30px;
+  font-size: 20px;
+  background: #000;
+  border: none;
+}
+
+.DraftEditor-root {
+  border: 2px solid blue;
+  width: 70%;
+  height: 25%;
+  padding: 15px;
+}
+
+.COLOR_RED {
+  color: red;
+}
+
+
+.demo {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-around;
+}
+
+.COLOR_RED {
+  color: red;
+}
