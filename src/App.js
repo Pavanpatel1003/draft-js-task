@@ -1,11 +1,9 @@
-import './App.css';
-import Change from './components/Change';
-// import Test from './components/Test';
+import "./App.css";
+import Change from "./components/Change";
 
 function App() {
   return (
     <>
-      {/* <Test></Test> */}
       <Change></Change>
     </>
   );
